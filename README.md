@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning about web3, frontend stuff and designing. 
+- 🌱 I’m currently learning about web3, application and system designing.  
 - 💞️ I’m looking to collaborate on open source projects. 
 
 <!---
